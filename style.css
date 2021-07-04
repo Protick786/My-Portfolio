@@ -10,11 +10,14 @@ h1{
     font-size: 30px;
 }
 .blue-color{
-    color:blue;
-    font-size: 30px;
+    color:rgba(15, 155, 219, 0.356);
+    font-size: 35px;
+    font-family: 'Encode Sans SC', sans-serif;
+    
 }
 section{
     display: flex;
+    margin-bottom: 400px;
 }
 .half-width{
     width: 50%;
@@ -45,4 +48,12 @@ section{
     font-family: 'Fuggles', cursive;
     font-size: 30px;
     font-weight: bold;
+}
+#style{
+    font-family: 'Anton', sans-serif;
+    font-size: 8mm;
+}
+#bold{
+    font-size: xx-large;
+    font-weight: 800;
 }
