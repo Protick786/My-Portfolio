@@ -23,6 +23,7 @@ section{
 }
 .half-width img{
     width: 100%;
+    border-radius: 100%;
 }
 .Button{
     text-decoration: none;
@@ -38,4 +39,10 @@ section{
 }
 #press{
     padding-top: 15px;
+}
+#font{
+    /* font-family: 'Dancing Script', cursive; */
+    font-family: 'Fuggles', cursive;
+    font-size: 30px;
+    font-weight: bold;
 }
